@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./dockerfile
           push: true
-          tags: beyondoblivion/project:lab12
+          tags: beyondoblivion/project:lab12_2
